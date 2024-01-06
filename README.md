@@ -1,26 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Hitesh Kumar
-==========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Hitesh Kumar
 
-Web Developer
--------------
+## Web Developer
 
 ![](https://komarev.com/ghpvc/?username=kumarhites&color=orange)
 
 I am familiar with CLI, HTML, CSS, JavaScript, NodeJS, VanillaJS, ReactJS, Git, GitHub, and Java, amongst many others and have several projects related to the above technologies, some of which my portfolio showcases. I wish to be a full-stack web developer and am forever eager to learn, grow and expand my knowledge!
 
-* 🖥️  See my portfolio at [My Portfolio](https://kumarhitesh.netlify.app/)
-* ✉️  You can contact me at [hkhiteshkumar66@gmail.com](mailto:hkhiteshkumar66@gmail.com)
-* 🧠  I'm learning backend and redux :)
-* 🤝  I'm open to collaborating on projects
-* ⚡  I love music of all kinds! 💜
-
-<a href="https://www.github.com/kumarhites" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kumarhitesh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://x.com/hitesh091895" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hitesh091895?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+-   🖥️  See my portfolio at [My Portfolio](https://kumarhitesh.netlify.app/)
+-   ✉️  You can contact me at [hkhiteshkumar66@gmail.com](mailto:hkhiteshkumar66@gmail.com)
+-   🧠  I'm learning backend and redux :)
+-   🤝  I'm open to collaborating on projects
+-   ⚡  I love music of all kinds! 💜
 
 ### Skills
-
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -35,7 +27,6 @@ src="https://img.shields.io/twitter/follow/hitesh091895?logo=twitter&style=for-t
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"><a href="mailto:hkhiteshkumar66@gmail.com" target="_blank" rel="noreferrer"><img src="https://kumarhitesh.netlify.app/assets/gmail.52fe3231.svg" width="36" height="36" top="-10px"/></a> <a href="https://www.github.com/kumarhites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a> <a href="https://hiteshkumar.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="36" height="36" /></a>  <a href="https://www.linkedin.com/in/hitesh-kumar09/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a> <a href="https://medium.com/@hkhiteshkumar66" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="36" height="36" /></a> <a href="https://twitter.com/hitesh091895" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" /></a> </p>
@@ -47,4 +38,3 @@ src="https://img.shields.io/twitter/follow/hitesh091895?logo=twitter&style=for-t
 <a href="http://www.github.com/kumarhites"><img src="https://github-readme-stats.vercel.app/api?username=kumarhites&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kumarhites's GitHub stats" /></a>
 
 <a href="http://www.github.com/kumarhites"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarhites&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
