@@ -4,13 +4,12 @@
 
 ![](https://komarev.com/ghpvc/?username=kumarhites&color=orange)
 
-I am familiar with CLI, HTML, CSS, JavaScript, NodeJS, VanillaJS, ReactJS, Git, GitHub, and Java, amongst many others and have several projects related to the above technologies, some of which my portfolio showcases. I wish to be a full-stack web developer and am forever eager to learn, grow and expand my knowledge!
+I am familiar with CLI, HTML, CSS, JavaScript, NodeJS, VanillaJS, ReactJS, Git, GitHub, and Java, amongst many others, and have several projects related to the above technologies, some of which my portfolio showcases. I wish to be a full-stack web developer and am forever eager to learn, grow, and expand my knowledge!
 
 -   🖥️  See my portfolio at [My Portfolio](https://kumarhitesh.netlify.app/)
 -   ✉️  You can contact me at [hkhiteshkumar66@gmail.com](mailto:hkhiteshkumar66@gmail.com)
 -   🧠  I'm learning backend and redux :)
 -   🤝  I'm open to collaborating on projects
--   ⚡  I love music of all kinds! 💜
 
 ### Skills
 
